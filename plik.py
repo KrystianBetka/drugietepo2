@@ -1,2 +1,3 @@
 print "Cześć jestem X"
-print "Tu sie przedstawi kolega"
+print "Tu przedstawi się kolega"
+
