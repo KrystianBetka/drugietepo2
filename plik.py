@@ -1,0 +1,2 @@
+print "Cześć jestem X"
+
